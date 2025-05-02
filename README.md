@@ -28,6 +28,8 @@ As part of the Data Analyst Simple Sales Dashboard Design**. The goal was to bui
 
 ## 🖼️ Dashboard Screenshot
 ![Dashboard Screenshot](https://github.com/Venkykatariki/Power-BI-Sales-Dashboard-Design/blob/main/Screenshot%202025-05-02%20165136.png)
+
+
 ![Dashboard Screenshot](https://github.com/Venkykatariki/Power-BI-Sales-Dashboard-Design/blob/main/Screenshot%202025-05-02%20165126.png)
 
 
