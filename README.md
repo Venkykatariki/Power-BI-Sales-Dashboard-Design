@@ -31,6 +31,3 @@ As part of the Data Analyst Simple Sales Dashboard Design**. The goal was to bui
 
 
 ![Dashboard Screenshot](https://github.com/Venkykatariki/Power-BI-Sales-Dashboard-Design/blob/main/Screenshot%202025-05-02%20165126.png)
-
-
-> *Make sure to upload your dashboard screenshot and name it `screenshot.png`, or update the filename above.*
